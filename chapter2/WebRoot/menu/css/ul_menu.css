@@ -1,0 +1,72 @@
+.bd .chapter-list li {
+    line-height: 39px;
+    height: 39px;
+    border-bottom: 1px dashed #BCBCBC;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: #BCBCBC;
+    
+    margin: 0px 57px;
+    margin-top: 0px;
+    margin-right-value: 57px;
+    margin-bottom: 0px;
+    margin-left-value: 57px;
+    margin-left-ltr-source: physical;
+    margin-left-rtl-source: physical;
+    margin-right-ltr-source: physical;
+    margin-right-rtl-source: physical;
+}
+.catalogue .bd .chapter-list li a {
+    color: #2B2B2B;
+}
+a, a:visited {
+    color: #4F4F4F;
+    text-decoration: none;
+    font-size: 0.875em;
+    outline: 0px none;
+}
+a {
+    text-decoration: none;
+    color: #333;
+    outline: medium none;
+}
+a {
+    cursor: pointer;
+}
+.bd .chapter-list li {
+    line-height: 39px;
+}
+li {
+    list-style: none outside none;
+    list-style-type: none;
+    list-style-image: none;
+    list-style-position: outside;
+}
+li{
+	color: #333;
+	font: 16px/2 "Times New Roman","Microsoft YaHei","Helvetica Neue",Helvetica,"Lucida Grande","Luxi Sans",sans-serif;
+    font-family: "Times New Roman","Microsoft YaHei","Helvetica Neue",Helvetica,"Lucida Grande","Luxi Sans",sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 2;
+    font-size-adjust: none;
+    font-stretch: normal;
+    -x-system-font: none;
+    -moz-font-feature-settings: normal;
+    -moz-font-language-override: normal;
+}
+
+li.cur {
+    font-weight: 700;
+    background: none repeat scroll 0% 0% #EAEAEA;
+        background-color: #EAEAEA;
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+}
